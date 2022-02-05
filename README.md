@@ -22,11 +22,14 @@ npm i -g azure-functions-core-tools@4 --unsafe-perm true
 ```
 
 # Usage
-Run `npm install` or `yarn` to install the dependencies
-
-## Building
+Install the dependencies for the frontend
 ```
-yarn build
+npm install
+```
+
+... and the backend
+```
+cd api && npm install
 ```
 
 ## Development
@@ -34,6 +37,3 @@ This command will use [`concurrently`](https://github.com/open-cli-tools/concurr
 ```
 yarn dev:local
 ```
-
-
-
