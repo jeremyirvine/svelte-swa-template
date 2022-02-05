@@ -1,5 +1,5 @@
 # Vite Azure Static Web App + Functions Template
-This template should help get you started developing with Svelte 
+This template should help get you started developing with [`Svelte`](https://github.com/sveltejs/svelte) 
 and [`TypeScript`](https://github.com/microsoft/TypeScript) 
 in [`Vite`](https://github.com/vitejs/vite)
 using [*Azure Static Web Apps*](https://azure.microsoft.com/en-us/services/app-service/static) + [*Serverless Functions*](https://azure.microsoft.com/en-us/services/functions/).
@@ -30,7 +30,7 @@ yarn build
 ```
 
 ## Development
-This uses [`concurrently`](https://github.com/open-cli-tools/concurrently) to run the frontend development server, backend compile task, and Azure emulator
+This command will use [`concurrently`](https://github.com/open-cli-tools/concurrently) to run the frontend development server, backend compile task, and Azure emulator
 ```
 yarn dev:local
 ```
