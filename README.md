@@ -1,4 +1,4 @@
-# (Svelte + TS + Vite) + Azure Functions Template
+# Vite Azure Static Web App + Functions Template
 This template should help get you started developing with Svelte 
 and [`TypeScript`](https://github.com/microsoft/TypeScript) 
 in [`Vite`](https://github.com/vitejs/vite)
